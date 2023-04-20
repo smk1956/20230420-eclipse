@@ -1,0 +1,197 @@
+bin : 실행파일
+conf : 환경설정
+lib: 라이브러리
+
+환경변수 설정
+JAVA_HOME : JDK 어디있는지 이클립스가 자동으로 인식
+	      Tomcat(웹서버) 인식을 위해
+
+Path : 경로를 찾아가기 쉽게
+
+
+C:\Program Files\Java\jdk-17\bin	javac
+C:\Program Files\Java\jdk-17\bin	java
+
+단축기
+윈도우 + e 탐색기
+윈도우 + m 바탕화면 바로가기
+윈도우 + r 명령프롬프트(powershell)
+
+ipconfig : 윈도우 IP 구성
+
+환경설정 
+path jdk설치경로\bin
+
+JAVA_HOME : jdk 설치 경로
+
+
+Project Name : 작업폴더명
+
+작업(자바코드): *.java -> *.class
+
+작업파일의 첫글자는 대문자
+
+클래스 파일은 무조건 main()
+
+웹 자바는 무조건 service()
+
+CPU : 처리장치(계산, 이동 등등)
+프로그래밍 : RAM 
+메모리 : 기억장치- 주기억장치:RAM
+
+메모리 분류
+1. 클래스 영역(statuc영역, method영역) : 공유영역
+2. stack 영역(기본타입의 값을 저장하거나 객체 타입의 주소를 저장)
+3. heep 영역(객체타입의 값이 저장되는 것)
+
+기본타입(첫글자 소문자)
+ 숫자저장 : int
+ 글자저장 : char
+ 실수 : double
+
+객체타입(첫글자 대문자)
+ 숫자저장 : Integer
+ 글자저장 : String
+ 실수 : Double
+
++배열, 객체.... : 많이 저장하거나 많이 처리할 때
+객체 : 여러개를 한 번에 처리할 때....
+
+java project : 큰 폴더 -> website 작업 폴더
+package : 세부폴더 -> 회원가입 패키지, 게시판 패키지, 블로그 패키지
+
+
+calc
+숫자 연산하는 프로그램
+파일을
+Calc
+
+
+프로젝트명
+tutorial :큰 폴더
+- tut01 : 세부 폴더
+
+
+tut01_dataType_primitive
+기본형 데이터 : primitive type
+참조형 : reference type : 메모리 주소는 statck 값은 heep
+
+tut01_IfStatement
+
+----------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
