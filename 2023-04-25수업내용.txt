@@ -1,0 +1,72 @@
+tot_pro : java_package
+ -shop
+  -Register_Ex.java
+ -model
+  -Register.java
+
+
+
+
+1. 회원가입 프로그램
+ (1)아이디userid , 비밀번호passwd
+ (2)객체(저장변수, 생성자, getter, setter, 메소드) 이용해서 회원가입
+ (3) model 패키지 안에 객체 클래스, 메인클래스
+	Register.java		Register_Ex
+
+-----------------------------------------------------------------------------
+
+고정배열 : 타입 동일한
+예)
+int[] i = new int[100]
+
+Register[] r = new Register[10];
+ArrayList<Register>
+
+
+2.tut_prj02
+ - company
+  -model
+   -Register.java
+  -Register_Ex.java
+
+String userid, passwd, name
+int grade
+Stirng addr, tel
+
+----------------------------------------------------
+첨부파일 : 1.hwp
+
+tut_prj03
+ -shop
+  -Register_Ex
+  -model
+   -Register
+
+1. 회원가입
+아이디
+비밀번호
+이름
+자기소개
+회원가입시간
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
